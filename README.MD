@@ -1,4 +1,4 @@
-##Loan Data Project README
+# **Loan Data Project README**
 
 
 Welcome to my loan data project [STILL UNDER CONSTRUCTION AND ONLY A PROTOTYPE!!].
