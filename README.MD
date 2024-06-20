@@ -6,13 +6,7 @@ Welcome to my loan data project [STILL UNDER CONSTRUCTION AND ONLY A PROTOTYPE!!
 
 The aim of this project is threefold:
 
-    - Build an ETL pipeline based on event-architecture that cleans loan data from Kaggle and stores it in Redshift
-
-    - Normalise the data in Redshift
-
-    - Generate insights and visualisations from the data
-
-    - Improve my understanding of AWS and event-driven architecture
+    - Build an ETL pipeline based on event-architecture that cleans loan data from Kaggle and stores it in S3
 
 
 Some constraints:
